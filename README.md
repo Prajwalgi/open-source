@@ -48,3 +48,18 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+
+## Unsorted Link Dump 
+- https://twitter.com/yourfirstpr
+- https://24pullrequests.com/
+- https://libraries.io/
+- https://www.codetriage.com/?language=JavaScript
+- https://www.codetriage.com/
+- https://the-pastry-box-project.net/charlotte-spencer/2015-september-16
+- http://yourfirstpr.github.io/
+- http://slides.com/kentcdodds/1st-pr#/
+- http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx
+- https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
+- http://up-for-grabs.net/
+- http://up-for-grabs.net/#/
+- https://github.com/MunGell/awesome-for-beginners
